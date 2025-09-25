@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the list of readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ Wolfe, Jeremy M., Todd S. Horowitz, and Naomi M. Kenner. "Rare Items Often Misse
 
 McBurney, Donald H., and Theresa L. White. _Research Methods_. 6th ed. Belmont, CA: Thomson/Wadsworth, 2004, chapters 5 and 8. ISBN: 9780534524180.
 
-{{% resource_link "06dd8f78-d8aa-43d7-bcd2-109d99e517d5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Palmer, Stephen E. {{% resource_link "06dd8f78-d8aa-43d7-bcd2-109d99e517d5" "_Vision Science: Photons to Phenomenology_" %}}. 1st ed. Cambridge, MA: MIT Press, 1999, pp. 668-672. ISBN: 9780262161831.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262161831) Palmer, Stephen E. [_Vision Science: Photons to Phenomenology_](https://mitpress.mit.edu/9780262161831). 1st ed. Cambridge, MA: MIT Press, 1999, pp. 668-672. ISBN: 9780262161831.
 
 Single Subject Design and t-test
 --------------------------------
@@ -25,9 +27,9 @@ McBurney, Donald H., and Theresa L. White. _Research Methods_. 6th ed. Belmont, 
 CogLab
 ------
 
-{{% resource_link "be67e970-73b0-46d2-b668-b7e0385b414f" "Coglab: Signal Detection" %}}
+[Coglab: Signal Detection](https://coglab.cengage.com/labs/signal_detection.shtml)
 
-{{% resource_link "b388bbd2-393c-417c-a932-3c65889c2151" "Coglab 1: Visual search summary" %}}
+[Coglab 1: Visual search summary](https://coglab.cengage.com/labs/visual_search.shtml)
 
 Treisman, Anne. "Features and Objects in Visual Processing." _Scientific American_ 255, no. 5 (1986): 114-125.
 
@@ -94,7 +96,7 @@ Simons, Daniel J., and Daniel T. Levin. "Change-Blindness." _Trends in Cognitive
 
 Hollingworth, Andrew, and John M. Henderson. "Accurate Visual Memory for Previously Attended Objects in Natural Scenes." _Journal of Experimental Psychology: Human Perception and Performance_ 28, no. 1 (2002): 113-136.
 
-{{% resource_link "849d69bd-190c-4ca5-95eb-7f09fa1fd974" "Change Blindness (with demos)" %}}
+[Change Blindness (with demos)](http://www.theinvisiblegorilla.com/videos.html)
 
 Visual Search
 -------------
@@ -154,6 +156,6 @@ Pelli, Denis G., et al. "Feature Detection and Letter Identification." _Vision R
 Articles on RSVP
 ----------------
 
-{{% resource_link "6242beb2-6bf0-4a10-97e1-ac667b2aca13" "Conceptual short term memory" %}}
+[Conceptual short term memory](http://www.scholarpedia.org/article/Conceptual_short_term_memory)
 
 Potter, Mary C. "Meaning in Visual Search." _Science_ 187, no. 4180 (1975): 965-966.
