@@ -5,8 +5,6 @@ description: Lab assignment on the experimental design of an investigation of th
 file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/d495ab61418a965864cbc24bbca13cfe_MIT9_63F09_assn08.pdf
 file_size: 48984
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

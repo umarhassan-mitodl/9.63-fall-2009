@@ -5,8 +5,6 @@ description: Lab assignment on the experimental design of an investigation of ey
 file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/3cf5c532f7519fa6b54b5fec3ac5f6a1_MIT9_63F09_assn07.pdf
 file_size: 49167
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

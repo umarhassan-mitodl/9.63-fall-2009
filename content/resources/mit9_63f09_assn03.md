@@ -4,8 +4,6 @@ description: Guideline for creating a slides presentation for a short oral prese
 file: /courses/9-63-laboratory-in-visual-cognition-fall-2009/5eab87dda74d8cb54435d5d9eec5f225_MIT9_63F09_assn03.pdf
 file_size: 21270
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

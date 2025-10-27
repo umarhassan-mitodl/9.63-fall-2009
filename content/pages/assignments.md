@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information and references for class exercises,
   written assignments, and oral presentations for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -20,9 +18,9 @@ Writing a scientific paper ({{% resource_link 46200f03-1231-2008-a8bb-de5f98389e
 
 Giving a short: guideline for slides ({{% resource_link 5eab87dd-a74d-8cb5-4435-d5d9eec5f225 "PDF" %}})
 
-[Transition Words - Words that you should use for linking ideas](http://larae.net/write/transition.html)
+{{% resource_link "113349ce-d7f3-48fd-b1f6-363401358046" "Transition Words - Words that you should use for linking ideas" %}}
 
-[A good selection of Web Resources](http://www.scholarpedia.org/article/Main_Page)
+{{% resource_link "ed3a385d-8673-448a-bf37-6f535f43b9bc" "A good selection of Web Resources" %}}
 
 Description of Assignments
 --------------------------
